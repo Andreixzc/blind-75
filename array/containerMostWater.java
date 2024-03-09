@@ -9,7 +9,7 @@ package array;
 
 public class containerMostWater {
     public static void main(String[] args) {
-
+        System.out.println(maxArea(new int[] { 1, 8, 6, 2, 5, 4, 8, 3, 7 }));
     }
 
     public static int maxArea(int[] height) {
@@ -28,6 +28,6 @@ public class containerMostWater {
 
         }
         return currentMax;
-    }
 
+    }
 }
