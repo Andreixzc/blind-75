@@ -12,7 +12,7 @@ Java solutions for [Blind 75 LeetCode Questions](https://leetcode.com/discuss/ge
 - [ ]  [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [ ]  [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 - [X]  [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-- [ ]  [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [X]  [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [ ]  [3 Sum](https://leetcode.com/problems/3sum/)
 - [X]  [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
